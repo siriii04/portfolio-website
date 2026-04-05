@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
 /* ===== RESET ===== */
 * {
   margin: 0;
@@ -104,6 +106,7 @@ footer {
   text-align: center;
   padding: 2rem;
   opacity: 0.6;
+  animation: fadeIn 1.2s ease forwards;
 }
 
 /* ===== ANIMATIONS ===== */
